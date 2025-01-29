@@ -2,6 +2,13 @@
 
 Tox for sending presets/programs, and other SysEx messages on the Novation Launchpad Mini MK3.
 
+## About This Fork - 2025-01-29
+
+TouchDesigner099 version used for creating this tox: 2023.11880
+Nothing was changed regarding the SysEx communication between TouchDesigner and the LaunchPad.
+
+A color picker example was added as an attempt to be able to select the pad color using RGB values in TouchDesigner.
+
 ### Network Example
 ![](image1.png)
 
